@@ -1,6 +1,6 @@
 # Hookdeck Ruby SDK
 
-The official Ruby library for the [Hookdeck API](https://hookdeck.com).
+The unofficial Ruby library for the [Hookdeck API](https://hookdeck.com?ref=github-toluwaanimi-ruby-sdk).
 
 ## Installation
 
